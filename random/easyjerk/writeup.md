@@ -1,4 +1,4 @@
-[Challenge Link](https://crackmes.one/crackme/67fa22568f555589f3530a94)
+#### Original Challenge: https://crackmes.one/crackme/67fa22568f555589f3530a94
 
 ---
 
